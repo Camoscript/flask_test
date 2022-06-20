@@ -1,0 +1,13 @@
+#virtual environment
+venv/
+
+#flask
+instance/*
+! instance/.gitignore
+.webassets-cache
+
+#flask.python Stack
+#Byte-compiled / optimized / DLL files
+_pycache_/
+*.py[cod]
+*spy.class
